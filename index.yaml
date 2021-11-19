@@ -6,10 +6,10 @@ entries:
     created: "2021-11-19T07:03:14.707456114Z"
     dependencies:
     - name: pages-api
-      repository: http://localhost:8080
+      repository: https://sekharpkube.github.io/
       version: 1.x.x
     - name: mysql
-      repository: http://localhost:8080
+      repository: https://sekharpkube.github.io/
       version: 1.x.x
     description: A Helm chart for Pages Application
     digest: ec702ec42a9aac4a033663941d29096fac29074c719b51ac58d2d051832630c8
